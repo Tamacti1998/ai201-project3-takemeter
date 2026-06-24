@@ -1,0 +1,14 @@
+{
+  "baseline_accuracy": 0.9,
+  "baseline_macro_f1": 0.881,
+  "finetuned_accuracy": 0.3333,
+  "finetuned_macro_f1": 0.208,
+  "test_set_size": 33,
+  "label_map": {
+    "Hype & Support": 0,
+    "Criticism & Trash Talk": 1,
+    "Game/Tactical Analysis": 2,
+    "Officiating Complaint": 3
+  },
+  "model": "distilbert-base-uncased"
+}
